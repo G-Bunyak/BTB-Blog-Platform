@@ -1,0 +1,35 @@
+.login_page_div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 200px;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+    gap: 20px;
+}
+
+.form_div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+    align-items: center;
+}
+
+.login_button{
+    color: #cacaca;
+    background-color: #191919;
+    border: 1px solid;
+    border-color: rgb(63, 63, 63);
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.login_button_div{
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,11 @@
+.custom_input{
+    width: 100%;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border: 1px solid #cacaca;
+    height: 35px;
+    color: #cacaca;
+    background-color: #222222;
+    border-radius: 5px;
+    font-size: 20px;
+}

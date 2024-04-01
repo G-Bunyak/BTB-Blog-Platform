@@ -1,0 +1,24 @@
+.modal_background_div{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal_background_div.active{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal_content_div{
+    padding: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #222222;
+    border-radius: 20px;
+    min-width: 300px;
+}

@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+  background-color: #222222;
+}
+
+.App{
+  width: 100vw;
+  min-height: 100vh;
+}

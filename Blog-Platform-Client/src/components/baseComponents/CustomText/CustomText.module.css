@@ -1,0 +1,17 @@
+.custom_text{
+    color: #cacaca;
+    overflow-wrap: anywhere;
+    font-size: 20px;
+}
+
+.size_big{
+    font-size: 33px;
+}
+
+.size_medium{
+    font-size: 22px;
+}
+
+.size_small{
+    font-size: 15px;
+}

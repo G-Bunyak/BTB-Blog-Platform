@@ -1,0 +1,44 @@
+.comment_item_div{
+    background-color: #191919;
+    border-radius: 10px;
+    width: 40%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.comment_author_nickname{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 5px;
+    margin-bottom: 4px;
+}
+
+.comment_title_div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.comment_control_div{
+    width: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.remove_button{
+    background-color: #191919;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: rgb(63, 63, 63);
+    width: 25px;
+    height: 25px;
+}
+
+.remove_button_text{
+    color: #cacaca;
+    font-size: 10px;
+}

@@ -1,0 +1,31 @@
+.main_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    gap: 10px;
+}
+
+.comment_label{
+    color: #cacaca;
+    margin-bottom: 20px;
+}
+
+.comment_button{
+    color: #cacaca;
+    background-color: #191919;
+    border: 1px solid;
+    border-color: rgb(63, 63, 63);
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+}

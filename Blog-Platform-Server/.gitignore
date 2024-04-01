@@ -1,0 +1,5 @@
+BlogPlatform/bin/
+BlogPlatform/obj/
+.vs/
+BlogPlatformTests/bin/
+BlogPlatformTests/obj/
