@@ -1,5 +1,3 @@
----
-
 ## Part 1: Blog-Platform-Server 
 Contains backend API for a Blog Platform with couple of xUnit tests.
 
